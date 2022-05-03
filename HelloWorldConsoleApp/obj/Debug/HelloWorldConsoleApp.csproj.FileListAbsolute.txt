@@ -1,0 +1,7 @@
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

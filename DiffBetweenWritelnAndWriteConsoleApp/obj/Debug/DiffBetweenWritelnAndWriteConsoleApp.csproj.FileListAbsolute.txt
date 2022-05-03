@@ -1,0 +1,7 @@
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\DiffBetweenWritelnAndWriteConsoleApp\bin\Debug\DiffBetweenWritelnAndWriteConsoleApp.exe.config
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\DiffBetweenWritelnAndWriteConsoleApp\bin\Debug\DiffBetweenWritelnAndWriteConsoleApp.exe
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\DiffBetweenWritelnAndWriteConsoleApp\bin\Debug\DiffBetweenWritelnAndWriteConsoleApp.pdb
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\DiffBetweenWritelnAndWriteConsoleApp\obj\Debug\DiffBetweenWritelnAndWriteConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\DiffBetweenWritelnAndWriteConsoleApp\obj\Debug\DiffBetweenWritelnAndWriteConsoleApp.exe
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\DiffBetweenWritelnAndWriteConsoleApp\obj\Debug\DiffBetweenWritelnAndWriteConsoleApp.pdb
+C:\Users\Артемий\source\repos\HelloWorldConsoleApp\DiffBetweenWritelnAndWriteConsoleApp\obj\Debug\DiffBetweenWritelnAndWriteConsoleApp.csproj.AssemblyReference.cache
